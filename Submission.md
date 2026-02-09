@@ -43,4 +43,4 @@ List each test you wrote and briefly explain **what bug or regression it prevent
 ---
 
 ## Reflection (1–2 lines)
-I learned that testing isn't just about checking if the code "works", but also about handling edge cases like negative prices. CI is also really cool because it runs everything automatically so you don't have to remember to do it manually.
+I learned about testing (using jest) and github actions and it was great to attend workshop
