@@ -38,7 +38,7 @@ List each test you wrote and briefly explain **what bug or regression it prevent
 
 ## CI Pipeline (if implemented)
 - Did CI pass successfully? (Yes)
-- GitHub Actions Run URL: https://github.com/Aaditya29112005/jest-workshop/actions
+- GitHub Actions Run URL: https://github.com/Aaditya29112005/jest-workshop/actions/runs/21825174693
 
 ---
 
